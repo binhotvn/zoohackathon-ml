@@ -48,8 +48,7 @@ sudo python3 crawler.py
 
 ## Plugins
 
-Download the model and put in the ./animalProject/
-Below model is the dataset link and Public Notebook that our team built.
+Download the model and put in the ./animalProject/. Below model is the dataset link and Public Notebook that our team built.
 | Plugin | Link |
 | ------ | ------ |
 | Google Drive | [https://drive.google.com/file/d/136iLxSuncyA7YG1jfwBRFYHuCH_OZKI-/view?usp=sharing][PlGd] |
