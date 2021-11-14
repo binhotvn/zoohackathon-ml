@@ -21,7 +21,7 @@ WildGogh is a platform for investigation illegal selling wild animalr.
 Full technology are used a number of open source projects to work properly:
 
 - Tensorflow - Deep Learning platform!
-- Numpy -  Vietnamese language preprocessing from scratch
+- Numpy -  Vietnamese language preprocessing and Machine Learning building from scratch
 - Flask - build A.I server
 - TypeScript - build management portal
 - node.js - evented I/O for the backend
