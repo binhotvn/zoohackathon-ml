@@ -33,6 +33,7 @@ And of course WildGogh itself is open source with public repo on GitHub.
 
 Install the dependencies and devDependencies and start the A.I server.
 Dashboard server on the other repo that we have submitted.
+
 ```sh
 virtualenv env
 pip install -r requirements.txt
@@ -40,8 +41,7 @@ sudo apt install tmux
 tmux -a test
 sudo python3 main.py
 ```
-Ctrl+B+D
-
+Ctrl+B+D and For crawl server
 ```sh
 sudo python3 crawler.py
 ```
