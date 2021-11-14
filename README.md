@@ -50,10 +50,16 @@ sudo python3 crawler.py
 
 Download the model and put in the ./animalProject/
 
-| Plugin | README |
+| Plugin | Link |
 | ------ | ------ |
 | Google Drive | [https://drive.google.com/file/d/136iLxSuncyA7YG1jfwBRFYHuCH_OZKI-/view?usp=sharing][PlGd] |
 
+## Training
+
+For training process, using below notebook on Google Colab or Kaggle
+```sh
+train.ipynb
+```
 
 ## Contribution
 Thanks for consider our project. We hope we can help the wild animal have the better life on our earth.
