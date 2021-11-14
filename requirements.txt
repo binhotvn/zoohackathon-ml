@@ -1,0 +1,5 @@
+flask
+tensorflow==2.5.0
+urllib
+numpy
+Pillow
