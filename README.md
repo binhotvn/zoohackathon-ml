@@ -41,7 +41,7 @@ sudo apt install tmux
 tmux -a test
 sudo python3 main.py
 ```
-Ctrl+B+D and For crawl server
+Ctrl+B+D and for crawl server:
 ```sh
 sudo python3 crawler.py
 ```
